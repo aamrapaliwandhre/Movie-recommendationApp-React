@@ -3,7 +3,7 @@ This app will recommend some best movie with movie genre.
 
 ---
 ## Technologies used
--ReactJS
+- ReactJS
 
 ---
 ## Preview
